@@ -1,5 +1,5 @@
 1. Line 1 -> updated
-2. Line 2
+2. Line 2 -> updated
 3. Line 3 -> updated
 4. Line 4
 5. Line 5 -> updated
